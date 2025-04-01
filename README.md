@@ -5,19 +5,21 @@ We provide heatmaps illustrating the impact of different sample sizes on causal 
 ## Heatmaps
 
 ### Sample Size: 1
-![Heatmap 1](pair1.png)
+
+<img src="pair1.png" width="400" />
 
 ### Sample Size: 2
-![Heatmap 2](pair2.png)
+<img src="pair2.png" width="400" />
 
 ### Sample Size: 5
-![Heatmap 5](pair5.png)
+<img src="pair5.png" width="400" />
 
 ### Sample Size: 15
-![Heatmap 15](pair15.png)
+<img src="pair15.png" width="400" />
 
 ### Sample Size: 50
-![Heatmap 50](pair50.png)
+<img src="pair50.png" width="400" />
 
 ### Sample Size: 100
+<img src="pair100.png" width="400" />
 ![Heatmap 100](pair100.png)
