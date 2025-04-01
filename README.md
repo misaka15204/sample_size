@@ -22,4 +22,4 @@ We provide heatmaps illustrating the impact of different sample sizes on causal 
 
 ### Sample Size: 100
 <img src="pair100.png" width="400" />
-![Heatmap 100](pair100.png)
+
