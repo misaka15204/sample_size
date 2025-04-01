@@ -1,6 +1,6 @@
 ## Causal Analysis Heatmaps
 
-We provide heatmaps illustrating the impact of different sample sizes on causal analysis on Mistral-7B (consistent on the paper). The heatmaps visualize the results across various sample sizes: **1, 2, 5, 15, 50, and 100**.
+We provide heatmaps illustrating the impact of different sample sizes on causal analysis on Mistral-7B (consistent with the paper). The heatmaps visualize the results across various sample sizes: **1, 2, 5, 15, 50, and 100**.
 
 ## Heatmaps
 
